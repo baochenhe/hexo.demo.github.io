@@ -6,5 +6,5 @@
 gridView 也留有实现的空间，不过在此就不弄。有时间在往下写吧。
 
 希望看到此文的朋友也能关注下我的博客。
-[无敌小包哥](http://wdbaoge.com "无敌小包哥")
-[http://wdbaoge.com](http://wdbaoge.com "无敌小包哥")
+[无敌小包哥](http://wdbaoge.com/2015/12/07/material-design-2015-12-02-RecyclerView/ "无敌小包哥")
+[http://wdbaoge.com](http://wdbaoge.com/2015/12/07/material-design-2015-12-02-RecyclerView/ "无敌小包哥")
