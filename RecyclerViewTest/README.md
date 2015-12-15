@@ -1,7 +1,7 @@
 # RecyclerViewTest
 先看下效果图：
 
-![](http://7xopmn.com1.z0.glb.clouddn.com/RecyclerView_gif_1.gif?attname=&e=1449663953&token=ut0EwGN-B6FPfiCyrcfMiZU0mnRbneDdJnpcnowX:dcCSkv39ZsE2aq7tBWdEB7ZMR1w)
+![效果图](http://7xopmn.com1.z0.glb.clouddn.com/RecyclerView_gif_1.gif?attname=&e=1449663953&token=ut0EwGN-B6FPfiCyrcfMiZU0mnRbneDdJnpcnowX:dcCSkv39ZsE2aq7tBWdEB7ZMR1w)
 
 gridView 也留有实现的空间，不过在此就不弄。有时间在往下写吧。
 
